@@ -1,0 +1,1202 @@
+[
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/244",
+    "number": 244,
+    "title": "Update docs to point to 2.5.0",
+    "state": "open",
+    "created_at": "2017-08-26T23:54:03Z",
+    "updated_at": "2017-08-26T23:55:00Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 8101247245,
+    "user": {
+      "login": "tedmiston",
+      "html_url": "https://github.com/tedmiston"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/236",
+    "number": 236,
+    "title": "Add XHTML compatibility",
+    "state": "closed",
+    "created_at": "2017-07-18T01:06:30Z",
+    "updated_at": "2017-07-20T08:36:13Z",
+    "closed_at": "2017-07-20T08:36:12Z",
+    "merged_at": "2017-07-20T08:36:12Z",
+    "period_to_merge": 199782000,
+    "period_to_close": 199782000,
+    "user": {
+      "login": "dvdckl",
+      "html_url": "https://github.com/dvdckl"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/235",
+    "number": 235,
+    "title": "Add support for custom emoji template",
+    "state": "open",
+    "created_at": "2017-07-14T05:43:10Z",
+    "updated_at": "2017-07-18T12:54:10Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 11881900245,
+    "user": {
+      "login": "nodegin",
+      "html_url": "https://github.com/nodegin"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/234",
+    "number": 234,
+    "title": "generate symbols file from svg emojis",
+    "state": "open",
+    "created_at": "2017-06-26T18:22:32Z",
+    "updated_at": "2017-07-09T18:48:17Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 13391538245,
+    "user": {
+      "login": "barbuza",
+      "html_url": "https://github.com/barbuza"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/233",
+    "number": 233,
+    "title": "Added subdivision flags (450/1715)",
+    "state": "open",
+    "created_at": "2017-06-25T19:25:02Z",
+    "updated_at": "2017-11-11T12:26:58Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 13474188245,
+    "user": {
+      "login": "Liggliluff",
+      "html_url": "https://github.com/Liggliluff"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/227",
+    "number": 227,
+    "title": "PNGs for Slightly Smiling and Frowning Faces",
+    "state": "open",
+    "created_at": "2017-05-05T23:42:47Z",
+    "updated_at": "2017-05-05T23:44:15Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 17865123245,
+    "user": {
+      "login": "Crissov",
+      "html_url": "https://github.com/Crissov"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/225",
+    "number": 225,
+    "title": "Updated Nepal .png and .svg flag",
+    "state": "closed",
+    "created_at": "2017-04-28T14:04:54Z",
+    "updated_at": "2017-05-05T19:09:40Z",
+    "closed_at": "2017-05-05T19:09:39Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 623085000,
+    "user": {
+      "login": "SebastiaanNijland",
+      "html_url": "https://github.com/SebastiaanNijland"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/219",
+    "number": 219,
+    "title": "新增功能",
+    "state": "closed",
+    "created_at": "2017-04-21T13:11:05Z",
+    "updated_at": "2017-04-21T13:11:44Z",
+    "closed_at": "2017-04-21T13:11:44Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 39000,
+    "user": {
+      "login": "0winner0",
+      "html_url": "https://github.com/0winner0"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/216",
+    "number": 216,
+    "title": "Update twemoji-generator.js for Emoji 5.0",
+    "state": "closed",
+    "created_at": "2017-04-05T20:53:43Z",
+    "updated_at": "2017-08-11T19:15:32Z",
+    "closed_at": "2017-04-06T08:35:36Z",
+    "merged_at": "2017-04-06T08:35:36Z",
+    "period_to_merge": 42113000,
+    "period_to_close": 42113000,
+    "user": {
+      "login": "Crissov",
+      "html_url": "https://github.com/Crissov"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/211",
+    "number": 211,
+    "title": "Create FOLDERS.md",
+    "state": "closed",
+    "created_at": "2017-03-30T08:59:15Z",
+    "updated_at": "2017-03-31T03:46:56Z",
+    "closed_at": "2017-03-30T11:35:14Z",
+    "merged_at": "2017-03-30T11:35:14Z",
+    "period_to_merge": 9359000,
+    "period_to_close": 9359000,
+    "user": {
+      "login": "Crissov",
+      "html_url": "https://github.com/Crissov"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/203",
+    "number": 203,
+    "title": "Fix npmignore for including emoji source files",
+    "state": "closed",
+    "created_at": "2017-02-10T16:36:41Z",
+    "updated_at": "2017-02-10T17:24:28Z",
+    "closed_at": "2017-02-10T17:20:33Z",
+    "merged_at": "2017-02-10T17:20:33Z",
+    "period_to_merge": 2632000,
+    "period_to_close": 2632000,
+    "user": {
+      "login": "tifabien",
+      "html_url": "https://github.com/tifabien"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/197",
+    "number": 197,
+    "title": "Changed FrwTwemoji homepage",
+    "state": "closed",
+    "created_at": "2016-12-24T14:47:07Z",
+    "updated_at": "2016-12-28T00:31:02Z",
+    "closed_at": "2016-12-25T11:47:13Z",
+    "merged_at": "2016-12-25T11:47:13Z",
+    "period_to_merge": 75606000,
+    "period_to_close": 75606000,
+    "user": {
+      "login": "FrenchW",
+      "html_url": "https://github.com/FrenchW"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/195",
+    "number": 195,
+    "title": "Added missing @return",
+    "state": "closed",
+    "created_at": "2016-12-20T15:25:24Z",
+    "updated_at": "2016-12-20T21:13:00Z",
+    "closed_at": "2016-12-20T21:13:00Z",
+    "merged_at": "2016-12-20T21:13:00Z",
+    "period_to_merge": 20856000,
+    "period_to_close": 20856000,
+    "user": {
+      "login": "wezpyke",
+      "html_url": "https://github.com/wezpyke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/194",
+    "number": 194,
+    "title": "Added Emojica to Community Projects.",
+    "state": "closed",
+    "created_at": "2016-12-09T18:20:05Z",
+    "updated_at": "2016-12-10T11:12:21Z",
+    "closed_at": "2016-12-10T11:01:07Z",
+    "merged_at": "2016-12-10T11:01:07Z",
+    "period_to_merge": 60062000,
+    "period_to_close": 60062000,
+    "user": {
+      "login": "xoudini",
+      "html_url": "https://github.com/xoudini"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/190",
+    "number": 190,
+    "title": "Compress images losslessly",
+    "state": "closed",
+    "created_at": "2016-11-11T22:21:50Z",
+    "updated_at": "2016-11-16T09:48:08Z",
+    "closed_at": "2016-11-15T23:17:30Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 348940000,
+    "user": {
+      "login": "technonerdz",
+      "html_url": "https://github.com/technonerdz"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/187",
+    "number": 187,
+    "title": "Fix issue #186(fix grammar and spelling in README )",
+    "state": "closed",
+    "created_at": "2016-10-08T18:29:14Z",
+    "updated_at": "2016-10-10T17:51:06Z",
+    "closed_at": "2016-10-10T10:52:28Z",
+    "merged_at": "2016-10-10T10:52:28Z",
+    "period_to_merge": 145394000,
+    "period_to_close": 145394000,
+    "user": {
+      "login": "S-Raghav",
+      "html_url": "https://github.com/S-Raghav"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/183",
+    "number": 183,
+    "title": "Add Favicon",
+    "state": "open",
+    "created_at": "2016-10-04T22:45:12Z",
+    "updated_at": "2017-04-26T19:17:08Z",
+    "closed_at": null,
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 36271778245,
+    "user": {
+      "login": "eppingere",
+      "html_url": "https://github.com/eppingere"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/172",
+    "number": 172,
+    "title": "Don't ignore V2 files in bower.json (fixes #171)",
+    "state": "closed",
+    "created_at": "2016-09-05T14:00:05Z",
+    "updated_at": "2016-09-05T19:22:37Z",
+    "closed_at": "2016-09-05T18:39:36Z",
+    "merged_at": "2016-09-05T18:39:36Z",
+    "period_to_merge": 16771000,
+    "period_to_close": 16771000,
+    "user": {
+      "login": "Rudloff",
+      "html_url": "https://github.com/Rudloff"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/162",
+    "number": 162,
+    "title": "support Apple's :scissors:",
+    "state": "closed",
+    "created_at": "2016-08-02T22:55:41Z",
+    "updated_at": "2016-08-03T23:19:52Z",
+    "closed_at": "2016-08-03T23:19:52Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 87851000,
+    "user": {
+      "login": "turadg",
+      "html_url": "https://github.com/turadg"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/158",
+    "number": 158,
+    "title": "Add Twitter Color Emoji font to Community Projects",
+    "state": "closed",
+    "created_at": "2016-07-15T23:02:25Z",
+    "updated_at": "2016-07-16T09:16:07Z",
+    "closed_at": "2016-07-16T09:16:01Z",
+    "merged_at": "2016-07-16T09:16:01Z",
+    "period_to_merge": 36816000,
+    "period_to_close": 36816000,
+    "user": {
+      "login": "eosrei",
+      "html_url": "https://github.com/eosrei"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/150",
+    "number": 150,
+    "title": "Add EmojiPanel to Community Projects",
+    "state": "closed",
+    "created_at": "2016-07-03T14:25:06Z",
+    "updated_at": "2016-07-03T15:18:56Z",
+    "closed_at": "2016-07-03T15:18:49Z",
+    "merged_at": "2016-07-03T15:18:49Z",
+    "period_to_merge": 3223000,
+    "period_to_close": 3223000,
+    "user": {
+      "login": "danbovey",
+      "html_url": "https://github.com/danbovey"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/146",
+    "number": 146,
+    "title": "twemoji V1 has 874 emojis",
+    "state": "closed",
+    "created_at": "2016-06-07T16:36:51Z",
+    "updated_at": "2016-06-08T02:50:26Z",
+    "closed_at": "2016-06-07T21:29:54Z",
+    "merged_at": "2016-06-07T21:29:54Z",
+    "period_to_merge": 17583000,
+    "period_to_close": 17583000,
+    "user": {
+      "login": "JuanitoFatas",
+      "html_url": "https://github.com/JuanitoFatas"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/142",
+    "number": 142,
+    "title": "Basic utilities / helpers added to docs",
+    "state": "closed",
+    "created_at": "2016-04-27T12:53:34Z",
+    "updated_at": "2016-04-27T13:32:33Z",
+    "closed_at": "2016-04-27T13:32:15Z",
+    "merged_at": "2016-04-27T13:32:15Z",
+    "period_to_merge": 2321000,
+    "period_to_close": 2321000,
+    "user": {
+      "login": "thesabbir",
+      "html_url": "https://github.com/thesabbir"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/139",
+    "number": 139,
+    "title": "Bower ignore compatibility",
+    "state": "closed",
+    "created_at": "2016-04-12T18:07:54Z",
+    "updated_at": "2016-04-13T13:53:14Z",
+    "closed_at": "2016-04-13T13:53:10Z",
+    "merged_at": "2016-04-13T13:53:10Z",
+    "period_to_merge": 71116000,
+    "period_to_close": 71116000,
+    "user": {
+      "login": "ProdigySim",
+      "html_url": "https://github.com/ProdigySim"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/137",
+    "number": 137,
+    "title": "Validate the first argument of parse method",
+    "state": "closed",
+    "created_at": "2016-04-04T12:48:22Z",
+    "updated_at": "2016-04-06T08:29:06Z",
+    "closed_at": "2016-04-06T08:28:55Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 157233000,
+    "user": {
+      "login": "josephj",
+      "html_url": "https://github.com/josephj"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/136",
+    "number": 136,
+    "title": "Validate the first argument of parse method",
+    "state": "closed",
+    "created_at": "2016-04-04T12:28:47Z",
+    "updated_at": "2016-04-04T12:48:57Z",
+    "closed_at": "2016-04-04T12:29:32Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 45000,
+    "user": {
+      "login": "josephj",
+      "html_url": "https://github.com/josephj"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/134",
+    "number": 134,
+    "title": "Fixes shadow on 1F46D",
+    "state": "closed",
+    "created_at": "2016-03-18T21:52:31Z",
+    "updated_at": "2016-03-18T23:55:29Z",
+    "closed_at": "2016-03-18T23:55:29Z",
+    "merged_at": "2016-03-18T23:55:28Z",
+    "period_to_merge": 7377000,
+    "period_to_close": 7378000,
+    "user": {
+      "login": "bhaggs",
+      "html_url": "https://github.com/bhaggs"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/133",
+    "number": 133,
+    "title": "Updates the Japanese Dolls emoji",
+    "state": "closed",
+    "created_at": "2016-03-18T21:46:50Z",
+    "updated_at": "2016-03-18T23:55:13Z",
+    "closed_at": "2016-03-18T23:55:13Z",
+    "merged_at": "2016-03-18T23:55:13Z",
+    "period_to_merge": 7703000,
+    "period_to_close": 7703000,
+    "user": {
+      "login": "bhaggs",
+      "html_url": "https://github.com/bhaggs"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/130",
+    "number": 130,
+    "title": "Add missed point in README.MD",
+    "state": "closed",
+    "created_at": "2016-03-10T21:00:25Z",
+    "updated_at": "2016-03-10T23:55:43Z",
+    "closed_at": "2016-03-10T23:55:43Z",
+    "merged_at": "2016-03-10T23:55:43Z",
+    "period_to_merge": 10518000,
+    "period_to_close": 10518000,
+    "user": {
+      "login": "alex-teren",
+      "html_url": "https://github.com/alex-teren"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/129",
+    "number": 129,
+    "title": "Added Yellow to community projects",
+    "state": "closed",
+    "created_at": "2016-03-08T10:36:52Z",
+    "updated_at": "2016-03-08T14:24:36Z",
+    "closed_at": "2016-03-08T13:54:32Z",
+    "merged_at": "2016-03-08T13:54:32Z",
+    "period_to_merge": 11860000,
+    "period_to_close": 11860000,
+    "user": {
+      "login": "markseu",
+      "html_url": "https://github.com/markseu"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/127",
+    "number": 127,
+    "title": "Fix search order",
+    "state": "closed",
+    "created_at": "2016-03-02T22:52:39Z",
+    "updated_at": "2016-03-02T23:13:06Z",
+    "closed_at": "2016-03-02T22:57:48Z",
+    "merged_at": "2016-03-02T22:57:48Z",
+    "period_to_merge": 309000,
+    "period_to_close": 309000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/126",
+    "number": 126,
+    "title": "Alternate way to avoid using \\u 200d",
+    "state": "closed",
+    "created_at": "2016-03-02T14:47:14Z",
+    "updated_at": "2016-03-02T19:03:54Z",
+    "closed_at": "2016-03-02T19:03:54Z",
+    "merged_at": "2016-03-02T19:03:54Z",
+    "period_to_merge": 15400000,
+    "period_to_close": 15400000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/125",
+    "number": 125,
+    "title": "fix sorting and use regex char classes",
+    "state": "closed",
+    "created_at": "2016-03-02T00:48:03Z",
+    "updated_at": "2016-03-02T21:59:08Z",
+    "closed_at": "2016-03-02T08:15:04Z",
+    "merged_at": "2016-03-02T08:15:04Z",
+    "period_to_merge": 26821000,
+    "period_to_close": 26821000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/124",
+    "number": 124,
+    "title": "I meant frowning. not smiley",
+    "state": "closed",
+    "created_at": "2016-03-01T21:54:24Z",
+    "updated_at": "2016-03-01T22:12:56Z",
+    "closed_at": "2016-03-01T22:12:56Z",
+    "merged_at": "2016-03-01T22:12:56Z",
+    "period_to_merge": 1112000,
+    "period_to_close": 1112000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/123",
+    "number": 123,
+    "title": "Non standard OS smiley variant",
+    "state": "closed",
+    "created_at": "2016-03-01T21:40:31Z",
+    "updated_at": "2016-03-01T21:50:36Z",
+    "closed_at": "2016-03-01T21:50:36Z",
+    "merged_at": "2016-03-01T21:50:36Z",
+    "period_to_merge": 605000,
+    "period_to_close": 605000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/122",
+    "number": 122,
+    "title": "Handle keycap variants as a group in the regex",
+    "state": "closed",
+    "created_at": "2016-03-01T19:13:42Z",
+    "updated_at": "2016-03-01T21:51:40Z",
+    "closed_at": "2016-03-01T21:04:14Z",
+    "merged_at": "2016-03-01T21:04:14Z",
+    "period_to_merge": 6632000,
+    "period_to_close": 6632000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/121",
+    "number": 121,
+    "title": "fix skin tone regex",
+    "state": "closed",
+    "created_at": "2016-03-01T05:15:34Z",
+    "updated_at": "2016-03-02T03:01:25Z",
+    "closed_at": "2016-03-01T07:59:13Z",
+    "merged_at": "2016-03-01T07:59:13Z",
+    "period_to_merge": 9819000,
+    "period_to_close": 9819000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/120",
+    "number": 120,
+    "title": "New assets for twemoji 2",
+    "state": "closed",
+    "created_at": "2016-02-29T08:53:36Z",
+    "updated_at": "2016-03-01T15:41:32Z",
+    "closed_at": "2016-02-29T11:20:42Z",
+    "merged_at": "2016-02-29T11:20:42Z",
+    "period_to_merge": 8826000,
+    "period_to_close": 8826000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/119",
+    "number": 119,
+    "title": "Simplify variant handling",
+    "state": "closed",
+    "created_at": "2016-02-25T23:49:50Z",
+    "updated_at": "2016-02-28T12:57:08Z",
+    "closed_at": "2016-02-28T12:57:08Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 220038000,
+    "user": {
+      "login": "twuttke",
+      "html_url": "https://github.com/twuttke"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/118",
+    "number": 118,
+    "title": "Fix a typo",
+    "state": "closed",
+    "created_at": "2016-02-12T08:10:05Z",
+    "updated_at": "2016-02-12T10:00:10Z",
+    "closed_at": "2016-02-12T10:00:01Z",
+    "merged_at": "2016-02-12T10:00:01Z",
+    "period_to_merge": 6596000,
+    "period_to_close": 6596000,
+    "user": {
+      "login": "pra85",
+      "html_url": "https://github.com/pra85"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/117",
+    "number": 117,
+    "title": "Fix grammar in README.md",
+    "state": "closed",
+    "created_at": "2016-02-09T03:41:54Z",
+    "updated_at": "2016-02-09T08:29:57Z",
+    "closed_at": "2016-02-09T08:29:57Z",
+    "merged_at": "2016-02-09T08:29:57Z",
+    "period_to_merge": 17283000,
+    "period_to_close": 17283000,
+    "user": {
+      "login": "anirvan",
+      "html_url": "https://github.com/anirvan"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/115",
+    "number": 115,
+    "title": "Added project FrwTwemoji",
+    "state": "closed",
+    "created_at": "2016-02-08T10:41:50Z",
+    "updated_at": "2016-03-03T09:02:28Z",
+    "closed_at": "2016-03-02T23:09:47Z",
+    "merged_at": "2016-03-02T23:09:47Z",
+    "period_to_merge": 2032077000,
+    "period_to_close": 2032077000,
+    "user": {
+      "login": "FrenchW",
+      "html_url": "https://github.com/FrenchW"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/114",
+    "number": 114,
+    "title": "Default to HTTPS",
+    "state": "closed",
+    "created_at": "2016-02-05T15:15:59Z",
+    "updated_at": "2016-02-06T09:01:54Z",
+    "closed_at": "2016-02-05T16:31:35Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 4536000,
+    "user": {
+      "login": "bevacqua",
+      "html_url": "https://github.com/bevacqua"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/109",
+    "number": 109,
+    "title": "Fix a typo in twemoji-generator.js",
+    "state": "closed",
+    "created_at": "2015-12-20T13:50:57Z",
+    "updated_at": "2016-02-02T08:35:15Z",
+    "closed_at": "2016-02-02T08:35:13Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 3782656000,
+    "user": {
+      "login": "JuanitoFatas",
+      "html_url": "https://github.com/JuanitoFatas"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/106",
+    "number": 106,
+    "title": "Add community project",
+    "state": "closed",
+    "created_at": "2015-12-11T11:53:56Z",
+    "updated_at": "2015-12-11T12:11:33Z",
+    "closed_at": "2015-12-11T12:11:33Z",
+    "merged_at": "2015-12-11T12:11:33Z",
+    "period_to_merge": 1057000,
+    "period_to_close": 1057000,
+    "user": {
+      "login": "yoavst",
+      "html_url": "https://github.com/yoavst"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/101",
+    "number": 101,
+    "title": "Add jollygoodcode/twemoji to community projects. [ci skip]",
+    "state": "closed",
+    "created_at": "2015-11-28T08:18:09Z",
+    "updated_at": "2015-12-01T01:33:52Z",
+    "closed_at": "2015-11-30T12:43:31Z",
+    "merged_at": "2015-11-30T12:43:31Z",
+    "period_to_merge": 188722000,
+    "period_to_close": 188722000,
+    "user": {
+      "login": "JuanitoFatas",
+      "html_url": "https://github.com/JuanitoFatas"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/100",
+    "number": 100,
+    "title": "Add onerror as an option",
+    "state": "closed",
+    "created_at": "2015-11-14T09:44:18Z",
+    "updated_at": "2015-11-17T12:08:22Z",
+    "closed_at": "2015-11-17T11:14:09Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 264591000,
+    "user": {
+      "login": "pento",
+      "html_url": "https://github.com/pento"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/98",
+    "number": 98,
+    "title": "Fixed daughter eye color in 1f46a (#95) and added shadow to 1f46b (#87)",
+    "state": "closed",
+    "created_at": "2015-10-31T03:13:41Z",
+    "updated_at": "2016-03-19T00:38:58Z",
+    "closed_at": "2016-03-19T00:38:58Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 12086717000,
+    "user": {
+      "login": "zahradtj",
+      "html_url": "https://github.com/zahradtj"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/89",
+    "number": 89,
+    "title": "Use the same background color on all keycap digits",
+    "state": "closed",
+    "created_at": "2015-06-30T13:03:35Z",
+    "updated_at": "2015-06-30T14:16:30Z",
+    "closed_at": "2015-06-30T14:16:30Z",
+    "merged_at": "2015-06-30T14:16:30Z",
+    "period_to_merge": 4375000,
+    "period_to_close": 4375000,
+    "user": {
+      "login": "prdolmos",
+      "html_url": "https://github.com/prdolmos"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/88",
+    "number": 88,
+    "title": "[1f516] Remove unnecessary layer",
+    "state": "closed",
+    "created_at": "2015-06-29T14:19:02Z",
+    "updated_at": "2015-06-29T15:30:56Z",
+    "closed_at": "2015-06-29T15:30:49Z",
+    "merged_at": "2015-06-29T15:30:49Z",
+    "period_to_merge": 4307000,
+    "period_to_close": 4307000,
+    "user": {
+      "login": "prdolmos",
+      "html_url": "https://github.com/prdolmos"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/85",
+    "number": 85,
+    "title": "Remove moot `version` property from bower.json",
+    "state": "closed",
+    "created_at": "2015-06-11T00:39:59Z",
+    "updated_at": "2015-06-11T07:22:22Z",
+    "closed_at": "2015-06-11T07:19:49Z",
+    "merged_at": "2015-06-11T07:19:49Z",
+    "period_to_merge": 23990000,
+    "period_to_close": 23990000,
+    "user": {
+      "login": "kkirsche",
+      "html_url": "https://github.com/kkirsche"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/78",
+    "number": 78,
+    "title": "Validate node passed to parseNode",
+    "state": "closed",
+    "created_at": "2015-05-04T06:28:48Z",
+    "updated_at": "2015-05-04T14:08:07Z",
+    "closed_at": "2015-05-04T14:08:07Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 27559000,
+    "user": {
+      "login": "peterwilsoncc",
+      "html_url": "https://github.com/peterwilsoncc"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/77",
+    "number": 77,
+    "title": "Simplify the surrogate-to-codepoint algorithm",
+    "state": "closed",
+    "created_at": "2015-04-24T17:50:53Z",
+    "updated_at": "2015-06-17T16:00:15Z",
+    "closed_at": "2015-06-17T08:20:49Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 4631396000,
+    "user": {
+      "login": "JoshyPHP",
+      "html_url": "https://github.com/JoshyPHP"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/74",
+    "number": 74,
+    "title": "Add cdnjs option too",
+    "state": "closed",
+    "created_at": "2015-04-13T17:04:36Z",
+    "updated_at": "2015-04-14T12:08:25Z",
+    "closed_at": "2015-04-14T11:48:29Z",
+    "merged_at": "2015-04-14T11:48:29Z",
+    "period_to_merge": 67433000,
+    "period_to_close": 67433000,
+    "user": {
+      "login": "AnSavvides",
+      "html_url": "https://github.com/AnSavvides"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/73",
+    "number": 73,
+    "title": "Derekmooney gh pages",
+    "state": "closed",
+    "created_at": "2015-04-11T18:18:07Z",
+    "updated_at": "2015-04-11T18:18:21Z",
+    "closed_at": "2015-04-11T18:18:21Z",
+    "merged_at": "2015-04-11T18:18:21Z",
+    "period_to_merge": 14000,
+    "period_to_close": 14000,
+    "user": {
+      "login": "WebReflection",
+      "html_url": "https://github.com/WebReflection"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/69",
+    "number": 69,
+    "title": "Fix issue with teeth looking offset on grinning face.",
+    "state": "closed",
+    "created_at": "2015-04-09T12:35:37Z",
+    "updated_at": "2015-04-09T18:35:57Z",
+    "closed_at": "2015-04-09T12:43:59Z",
+    "merged_at": "2015-04-09T12:43:58Z",
+    "period_to_merge": 501000,
+    "period_to_close": 502000,
+    "user": {
+      "login": "jasmussen",
+      "html_url": "https://github.com/jasmussen"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/67",
+    "number": 67,
+    "title": "Add missing emoji, 1f641 and 1f642",
+    "state": "closed",
+    "created_at": "2015-04-09T09:10:05Z",
+    "updated_at": "2015-09-11T17:20:00Z",
+    "closed_at": "2015-04-09T11:32:25Z",
+    "merged_at": "2015-04-09T11:32:25Z",
+    "period_to_merge": 8540000,
+    "period_to_close": 8540000,
+    "user": {
+      "login": "jasmussen",
+      "html_url": "https://github.com/jasmussen"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/66",
+    "number": 66,
+    "title": "Make size and position of face emoji more consistent",
+    "state": "closed",
+    "created_at": "2015-04-09T08:16:08Z",
+    "updated_at": "2015-04-09T12:02:49Z",
+    "closed_at": "2015-04-09T10:29:43Z",
+    "merged_at": "2015-04-09T10:29:43Z",
+    "period_to_merge": 8015000,
+    "period_to_close": 8015000,
+    "user": {
+      "login": "jasmussen",
+      "html_url": "https://github.com/jasmussen"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/52",
+    "number": 52,
+    "title": "Don't replace text nodes if there's nothing to replace",
+    "state": "closed",
+    "created_at": "2015-03-12T17:47:37Z",
+    "updated_at": "2015-03-12T23:44:56Z",
+    "closed_at": "2015-03-12T21:05:35Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 11878000,
+    "user": {
+      "login": "iseulde",
+      "html_url": "https://github.com/iseulde"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/50",
+    "number": 50,
+    "title": "Add SELECT to the ignore list",
+    "state": "closed",
+    "created_at": "2015-03-04T12:02:44Z",
+    "updated_at": "2015-03-13T04:04:01Z",
+    "closed_at": "2015-03-12T19:58:05Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 719721000,
+    "user": {
+      "login": "pento",
+      "html_url": "https://github.com/pento"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/47",
+    "number": 47,
+    "title": "Add options.attributes callback",
+    "state": "closed",
+    "created_at": "2015-02-25T02:15:56Z",
+    "updated_at": "2015-04-11T18:19:40Z",
+    "closed_at": "2015-04-11T18:18:21Z",
+    "merged_at": "2015-04-11T18:18:21Z",
+    "period_to_merge": 3945745000,
+    "period_to_close": 3945745000,
+    "user": {
+      "login": "derekmooney",
+      "html_url": "https://github.com/derekmooney"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/42",
+    "number": 42,
+    "title": "Fix names of ©, ®, and ™ in code sample comment",
+    "state": "closed",
+    "created_at": "2015-02-12T00:05:01Z",
+    "updated_at": "2015-02-12T08:23:12Z",
+    "closed_at": "2015-02-12T08:23:12Z",
+    "merged_at": "2015-02-12T08:23:12Z",
+    "period_to_merge": 29891000,
+    "period_to_close": 29891000,
+    "user": {
+      "login": "notlaforge",
+      "html_url": "https://github.com/notlaforge"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/37",
+    "number": 37,
+    "title": "Allow for configurable `className`",
+    "state": "closed",
+    "created_at": "2015-01-13T16:38:10Z",
+    "updated_at": "2015-01-13T22:07:51Z",
+    "closed_at": "2015-01-13T22:07:51Z",
+    "merged_at": "2015-01-13T22:07:50Z",
+    "period_to_merge": 19780000,
+    "period_to_close": 19781000,
+    "user": {
+      "login": "unindented",
+      "html_url": "https://github.com/unindented"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/36",
+    "number": 36,
+    "title": "Fix GitHub spelling. [ci skip]",
+    "state": "closed",
+    "created_at": "2015-01-08T17:16:27Z",
+    "updated_at": "2015-01-08T18:57:46Z",
+    "closed_at": "2015-01-08T18:53:47Z",
+    "merged_at": "2015-01-08T18:53:47Z",
+    "period_to_merge": 5840000,
+    "period_to_close": 5840000,
+    "user": {
+      "login": "JuanitoFatas",
+      "html_url": "https://github.com/JuanitoFatas"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/35",
+    "number": 35,
+    "title": "Typo",
+    "state": "closed",
+    "created_at": "2015-01-02T22:06:12Z",
+    "updated_at": "2015-01-02T23:15:27Z",
+    "closed_at": "2015-01-02T22:06:34Z",
+    "merged_at": "2015-01-02T22:06:34Z",
+    "period_to_merge": 22000,
+    "period_to_close": 22000,
+    "user": {
+      "login": "msurguy",
+      "html_url": "https://github.com/msurguy"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/33",
+    "number": 33,
+    "title": "Update .npmignore",
+    "state": "closed",
+    "created_at": "2014-11-30T09:55:56Z",
+    "updated_at": "2014-12-01T12:53:13Z",
+    "closed_at": "2014-12-01T10:34:01Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 88685000,
+    "user": {
+      "login": "Brijeshrpatel9",
+      "html_url": "https://github.com/Brijeshrpatel9"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/24",
+    "number": 24,
+    "title": "add a verb to \"Attribution Requirements\"",
+    "state": "closed",
+    "created_at": "2014-11-11T17:38:40Z",
+    "updated_at": "2014-11-11T18:16:31Z",
+    "closed_at": "2014-11-11T18:16:31Z",
+    "merged_at": "2014-11-11T18:16:31Z",
+    "period_to_merge": 2271000,
+    "period_to_close": 2271000,
+    "user": {
+      "login": "andypiper",
+      "html_url": "https://github.com/andypiper"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/22",
+    "number": 22,
+    "title": "del  -o-user-select: none;",
+    "state": "closed",
+    "created_at": "2014-11-11T16:15:50Z",
+    "updated_at": "2014-11-11T20:46:53Z",
+    "closed_at": "2014-11-11T16:20:47Z",
+    "merged_at": "2014-11-11T16:20:47Z",
+    "period_to_merge": 297000,
+    "period_to_close": 297000,
+    "user": {
+      "login": "tomByrer",
+      "html_url": "https://github.com/tomByrer"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/21",
+    "number": 21,
+    "title": "Update README.md",
+    "state": "closed",
+    "created_at": "2014-11-11T16:07:32Z",
+    "updated_at": "2014-11-11T16:12:20Z",
+    "closed_at": "2014-11-11T16:12:08Z",
+    "merged_at": "2014-11-11T16:12:08Z",
+    "period_to_merge": 276000,
+    "period_to_close": 276000,
+    "user": {
+      "login": "pmk25",
+      "html_url": "https://github.com/pmk25"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/17",
+    "number": 17,
+    "title": "Maximize IDAT Compression",
+    "state": "closed",
+    "created_at": "2014-11-09T14:31:18Z",
+    "updated_at": "2014-11-12T11:26:51Z",
+    "closed_at": "2014-11-12T11:26:51Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 248133000,
+    "user": {
+      "login": "ericlaw1979",
+      "html_url": "https://github.com/ericlaw1979"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/15",
+    "number": 15,
+    "title": "Use HTTPS in all cases for the default assets URL",
+    "state": "closed",
+    "created_at": "2014-11-08T07:56:03Z",
+    "updated_at": "2016-02-06T00:43:06Z",
+    "closed_at": "2014-11-12T21:36:37Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 394834000,
+    "user": {
+      "login": "mathiasbynens",
+      "html_url": "https://github.com/mathiasbynens"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/14",
+    "number": 14,
+    "title": "minify SVG",
+    "state": "closed",
+    "created_at": "2014-11-08T07:13:42Z",
+    "updated_at": "2014-11-13T19:38:37Z",
+    "closed_at": "2014-11-11T15:22:51Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 288549000,
+    "user": {
+      "login": "tomByrer",
+      "html_url": "https://github.com/tomByrer"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/13",
+    "number": 13,
+    "title": "minify SVG",
+    "state": "closed",
+    "created_at": "2014-11-08T06:52:16Z",
+    "updated_at": "2014-11-08T06:53:32Z",
+    "closed_at": "2014-11-08T06:53:32Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 76000,
+    "user": {
+      "login": "tomByrer",
+      "html_url": "https://github.com/tomByrer"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/12",
+    "number": 12,
+    "title": "fix: remove duplicates in q.nonStandard",
+    "state": "closed",
+    "created_at": "2014-11-08T02:51:59Z",
+    "updated_at": "2014-11-10T08:48:52Z",
+    "closed_at": "2014-11-09T20:31:11Z",
+    "merged_at": null,
+    "period_to_merge": null,
+    "period_to_close": 149952000,
+    "user": {
+      "login": "sekimura",
+      "html_url": "https://github.com/sekimura"
+    }
+  },
+  {
+    "html_url": "https://github.com/twitter/twemoji/pull/6",
+    "number": 6,
+    "title": "Add component.json",
+    "state": "closed",
+    "created_at": "2014-11-07T16:32:42Z",
+    "updated_at": "2014-11-08T00:32:17Z",
+    "closed_at": "2014-11-08T00:31:11Z",
+    "merged_at": "2014-11-08T00:31:11Z",
+    "period_to_merge": 28709000,
+    "period_to_close": 28709000,
+    "user": {
+      "login": "thii",
+      "html_url": "https://github.com/thii"
+    }
+  }
+]

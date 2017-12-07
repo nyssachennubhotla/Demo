@@ -1,0 +1,21 @@
+
+  // fetch(process.env.PUBLIC_URL + '/data/punch_card.json')
+  //     .then(function(response) {
+
+  //        //Iterate through data right here;
+  //        console.log(response.json());
+
+  //        return response.json();
+  //     });
+
+
+
+   // fetch(process.env.PUBLIC_URL + '/data/pants.json')
+   //    .then(function(response) {
+
+
+
+
+   //       return response.json();
+   //       console.log(response.json());
+   //    });

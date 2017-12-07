@@ -1,0 +1,28 @@
+.chart-title {
+    text-anchor:middle;
+    font-weight:bold;
+}
+
+.title {
+    text-anchor:middle;
+}
+.chart {
+    display:relative;
+}
+
+.tooltip-content {
+    background: white;
+    border: 1px solid black;
+    color: black;
+    padding: 10px;
+    z-index: 99;
+    min-width: 120px;
+}
+
+.heatrects {
+    rx:15;
+    ry:15;
+}
+.heatMap .axis-tick-lines{
+    display: none;
+}
